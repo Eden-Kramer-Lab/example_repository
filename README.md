@@ -1,7 +1,7 @@
 # example_repository
 An exemplar repository demonstrating elements of a public facing code library
 
-### Checklist
+### Elements of a Code Repository - A Checklist
 
 In order of importance:
 
