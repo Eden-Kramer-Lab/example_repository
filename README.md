@@ -20,6 +20,7 @@ In order of importance:
 
 
 ### Example Repos
+* https://github.com/ahwillia/tensortools
 * https://github.com/mne-tools/mne-python
 * https://github.com/elfi-dev/elfi
 * https://github.com/glm-tools/pyglmnet
