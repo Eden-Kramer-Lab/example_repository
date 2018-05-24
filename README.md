@@ -19,6 +19,13 @@ In order of importance:
 - [ ] Tests
 
 
+### How to add a repository to the Github Organization
+
+If your repositories already exists under your personal Github account, you can transfer it to the [Eden-Kramer-Lab Github organization](https://github.com/Eden-Kramer-Lab) by following these [instructions](https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/#transferring-to-an-organization).
+
+Otherwise, you can go to the [Eden-Kramer-Lab Github organization](https://github.com/Eden-Kramer-Lab) page, create a new repository there, and [upload your files](https://help.github.com/articles/adding-a-file-to-a-repository/).
+
+
 ### Example Repos
 * https://github.com/ahwillia/tensortools
 * https://github.com/mne-tools/mne-python
